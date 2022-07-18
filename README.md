@@ -10,7 +10,7 @@
 
 Clone Repository via Git:
 
-    git clone https://github.com/Vishwaas-S/laravel-react-backend.git
+    git clone https://github.com/surajparm/laravel-react-backend
 
     cd laravel-react-backend
 
